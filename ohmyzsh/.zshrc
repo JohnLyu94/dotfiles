@@ -133,3 +133,7 @@ eval "$(pyenv init -)"
 
 # poetry setup
 export PATH="/Users/suxingl94/.local/bin:$PATH"
+
+# Starship bootup
+eval "$(starship init zsh)"
+
