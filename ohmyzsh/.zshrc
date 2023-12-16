@@ -72,6 +72,7 @@ zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
 	git
+    z
 	zsh-autosuggestions
 	zsh-syntax-highlighting
 	docker
