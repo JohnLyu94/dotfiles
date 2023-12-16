@@ -22,3 +22,4 @@ option.termguicolors = true
 
 -- Global Settings
 global.mapleader = " "
+global.hlsearch = true
